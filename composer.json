@@ -2,7 +2,7 @@
     "name": "marcelorobson001/phpflorestasintatica",
     "description": "tagger do Corpus Floresta Sintática com Bigramas e Unigramas, construido para taggear frases.",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
             "marcelorobson001\\PHPFlorestaSintatica\\": "src/"
